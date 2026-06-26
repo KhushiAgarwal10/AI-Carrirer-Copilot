@@ -133,31 +133,23 @@ The application generates a detailed report including:
 
 ## 📸 Screenshots
 
-Add screenshots of your application here after testing.
-
-Example:
-
-```
-## 📸 Screenshots
-
 ### 🏠 Home Page
 ![Home Page](screenshots/home.png)
 
----
+
 
 ### 📄 Upload Resume
 ![Upload Resume](screenshots/upload.png)
 
----
+
 
 ### 📊 Resume Analysis
 ![Resume Analysis](screenshots/analyze.png)
 
----
 
 ### 📥 Download Report
 ![Download Report](screenshots/download.png)
-```
+
 
 ---
 
