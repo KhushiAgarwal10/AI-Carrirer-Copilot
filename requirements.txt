@@ -3,3 +3,4 @@ PyPDF2
 pandas
 ibm-watsonx-ai
 python-dotenv
+

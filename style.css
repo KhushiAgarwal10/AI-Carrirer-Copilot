@@ -1,0 +1,92 @@
+/* ===========================
+   AI Career Copilot Theme
+=========================== */
+
+/* Background */
+.stApp {
+    background-color: #f4f7fc;
+}
+
+/* Main Title */
+h1 {
+    color: #0F62FE;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* Subheadings */
+h2, h3 {
+    color: #393939;
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+    background-color: #0F62FE;
+}
+
+[data-testid="stSidebar"] * {
+    color: white;
+}
+
+/* Buttons */
+.stButton > button {
+    width: 100%;
+    background-color: #0F62FE;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.stButton > button:hover {
+    background-color: #0353e9;
+    color: white;
+}
+
+/* File Uploader */
+[data-testid="stFileUploader"] {
+    border: 2px dashed #0F62FE;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: white;
+}
+
+/* Success Message */
+.stSuccess {
+    border-radius: 10px;
+}
+
+/* Info Box */
+.stAlert {
+    border-radius: 10px;
+}
+
+/* Metric Cards */
+[data-testid="metric-container"] {
+    background: white;
+    border-radius: 12px;
+    padding: 15px;
+    border: 1px solid #d9d9d9;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.08);
+}
+
+/* Expander */
+.streamlit-expanderHeader {
+    font-weight: bold;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    color: gray;
+    font-size: 14px;
+    margin-top: 40px;
+}
+
+/* Markdown Sections */
+.block-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
